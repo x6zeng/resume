@@ -1,5 +1,5 @@
 # Tony Zeng
-<img src="photo-professional.jpg" alt="photo" width="200"/>
+<img src="photo_professional.jpg" alt="photo" width="200"/>
 
 I am a third-year student at University of California, San Diego majoring in Data Science and Cognitive Science with a specialization in Machine Learning and Neural Computation. Meanwhile, I am also working toward a minor degree from Rady in Marketing. My interest lies in Business Analytics specifically in the field of E-commerce and Digital Marketing. I am eager to explore ways on how Data Science can be applied to promote effective marketing strategies in managing customer lifecycle.
 
