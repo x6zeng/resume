@@ -17,7 +17,7 @@ GPA: 3.88
 
 ## Work Experience
 ### Illuminera | Shanghai, China 
-**Business Intelligence Intern**
+**Business Intelligence Intern**  
 April 2021 – October 2021
 - Built a timely monitoring system on Quick Bi to achieve early
 warning, operational review, and user growth tracking.
@@ -41,21 +41,20 @@ to monitor the latest fiscal policy.
 - Performed NLP and clustering on the results of questions asked
 in the medicine Xiaoming artificial robot.
 
-## Extracurricular Activities
-### Triple C 
-**Software Developer**  
-January 2020 – Present
 
 ## Projects
+
 ### IEEE-CIS Fraud Detection
 - Performed data cleaning and feature engineering on 60000+
 transaction data.
 - Trained an XGBoost Decision Tree Model and reached an
 accuracy of 86% on detecting fraud transactions.
+
 ### Twitter Sentiment Analysis
 - Identified the hot topics in twitter posts using TF-IDF.
 - Extracted emotions and common phrases about popular
 topics.
+
 ### California Wildfire Prediction
 - Collected past temperature, humidity, wind speed from
 climate stations and examined the effects on the frequency and
