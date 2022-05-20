@@ -9,9 +9,9 @@ I am a third-year student at University of California, San Diego majoring in Dat
 
 ## Education
 ### University of California San Diego
-#### B.S. in Data Science
-#### B.S. in Cognitive Science - Specialization in Machine Learning and Neural Computation
-#### Minor in Marketing
+** B.S. in Data Science
+** B.S. in Cognitive Science - Specialization in Machine Learning and Neural Computation
+** Minor in Marketing
 Expected Graduation: June 2023  
 GPA: 3.88
 
@@ -19,10 +19,27 @@ GPA: 3.88
 ### Illuminera | Shanghai, China 
 **Business Intelligence Intern**
 April 2021 – October 2021
+- Built a timely monitoring system on Quick Bi to achieve early
+warning, operational review, and user growth tracking.
+- Formalized customized mobile reports to help the customers
+familiarize with the latest marketing trends.
+- Optimized the user classifying system using fraud detection
+algorithms, enhanced operational efficiency, and raised the
+data quality
 
 ### WuXi App. Tec | Shanghai, China 
 **Data Service Intern**  
 July 2020 – March 2021
+- Processed data-cleaning and standardization on database
+including Oracle, MySQL, SQL Server through SQLAlchemy.
+- Created monitoring applications (100+ pages) using Oracle
+APEX, designed dashboards for analyzing the app lifecycle.
+- Implemented a Power Bi cloud reporting system for examining
+the finance and usage of the chemistry department.
+- Crawled public government websites (30+ pages) using Scrapy
+to monitor the latest fiscal policy.
+- Performed NLP and clustering on the results of questions asked
+in the medicine Xiaoming artificial robot.
 
 ## Extracurricular Activities
 ### Triple C 
@@ -31,8 +48,18 @@ January 2020 – Present
 
 ## Projects
 ### IEEE-CIS Fraud Detection
+- Performed data cleaning and feature engineering on 60000+
+transaction data.
+- Trained an XGBoost Decision Tree Model and reached an
+accuracy of 86% on detecting fraud transactions.
 ### Twitter Sentiment Analysis
+- Identified the hot topics in twitter posts using TF-IDF.
+- Extracted emotions and common phrases about popular
+topics.
 ### California Wildfire Prediction
+- Collected past temperature, humidity, wind speed from
+climate stations and examined the effects on the frequency and
+the damage area of the wildfire
 
 ## Skills
 
