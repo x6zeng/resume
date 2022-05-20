@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Tony Zeng
+<img src="photo-professional.jpg" alt="photo" width="200"/>
 
-You can use the [editor on GitHub](https://github.com/x6zeng/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a third-year student at University of California, San Diego majoring in Data Science and Cognitive Science with a specialization in Machine Learning and Neural Computation. Meanwhile, I am also working toward a minor degree from Rady in Marketing. My interest lies in Business Analytics specifically in the field of E-commerce and Digital Marketing. I am eager to explore ways on how Data Science can be applied to promote effective marketing strategies in managing customer lifecycle.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Email:** x6zeng@ucsd.edu  
+**GitHub:** [https://github.com/x6zeng](https://github.com/x6zeng)  
+**LinkedIn:** [https://www.linkedin.com/in/tony-zeng-3a2209153/](https://www.linkedin.com/in/tony-zeng-3a2209153/)  
 
-### Markdown
+## Education
+### University of California San Diego
+#### B.S. in Data Science
+#### B.S. in Cognitive Science - Specialization in Machine Learning and Neural Computation
+#### Minor in Marketing
+Expected Graduation: June 2023  
+GPA: 3.88
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work Experience
+### Illuminera | Shanghai, China 
+**Business Intelligence Intern**
+April 2021 – October 2021
 
-```markdown
-Syntax highlighted code block
+### WuXi App. Tec | Shanghai, China 
+**Data Service Intern**  
+July 2020 – March 2021
 
-# Header 1
-## Header 2
-### Header 3
+## Extracurricular Activities
+### Triple C 
+**Software Developer**  
+January 2020 – Present
 
-- Bulleted
-- List
+## Projects
+### IEEE-CIS Fraud Detection
+### Twitter Sentiment Analysis
+### California Wildfire Prediction
 
-1. Numbered
-2. List
+## Skills
 
-**Bold** and _Italic_ and `Code` text
+|Area|Skills|
+|---:|---|
+|**Programming**|Python, Java, JavaScript, HTML, CSS, R, SQL|
+|**Database**|MySQL, Oracle, SQL Server, MongoDB, ETL|
+|**Business Intelligence**|PowerBI, QuickBI, Tableau, Excel|
+|**Languages**|Chinese (Native Proficiency), English (Native Proficiency)|
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/x6zeng/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Hobbies
+I like to play basketball, hike, and travel to places around the world. In my free time, I love to experience new food and try to learn how to cook them myself. 
