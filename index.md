@@ -1,3 +1,4 @@
+
 # Tony Zeng
 <img src="photo_professional.jpg" alt="photo" width="200"/>
 
@@ -9,9 +10,13 @@ I am a third-year student at University of California, San Diego majoring in Dat
 
 ## Education
 ### University of California San Diego
-** B.S. in Data Science
-** B.S. in Cognitive Science - Specialization in Machine Learning and Neural Computation
-** Minor in Marketing
+
+- B.S. in Data Science
+
+- B.S. in Cognitive Science - Specialization in Machine Learning and Neural Computation
+
+- Minor in Marketing
+
 Expected Graduation: June 2023  
 GPA: 3.88
 
