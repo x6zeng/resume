@@ -16,6 +16,7 @@ I graduated from University of California, San Diego with degrees in Data Scienc
 - B.S. in Cognitive Science - Specialization in Machine Learning and Neural Computation
 
 Graduation Date: June 2023
+
 GPA: 3.92
 
 ## Professional Experience
